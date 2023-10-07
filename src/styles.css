@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* Colorful background */
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333; /* Dark text color */
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styling */
+  h1 {
+    color: #e91e63; /* Pink text color */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Menu styling */
+  .menu {
+    background-color: #2196f3; /* Blue background color */
+    color: white; /* White text color */
+  }
+  
+  /* Menu links */
+  .menu a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Create, Read, Update, Delete buttons */
+  button {
+    background-color: #4caf50; /* Green background color */
+    color: white; /* White text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  /* Input fields */
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc; /* Light gray border */
+  }
+  
+  /* Additional styles for individual components as needed */
+  /* You can create different classes for different components */
+  
+  /* Example for "Create" component */
+  .create {
+    padding: 20px;
+    background-color: #ffc107; /* Yellow background color */
+    border-radius: 10px;
+  }
+  
+  /* Example for "Read" component */
+  .read {
+    padding: 20px;
+    background-color: #9c27b0; /* Purple background color */
+    border-radius: 10px;
+  }
+  
+  /* Example for "Update" component */
+  .update {
+    padding: 20px;
+    background-color: #ff5722; /* Deep orange background color */
+    border-radius: 10px;
+  }
+  
+  /* Example for "Delete" component */
+  .delete {
+    padding: 20px;
+    background-color: #03a9f4; /* Light blue background color */
+    border-radius: 10px;
+  }
+  

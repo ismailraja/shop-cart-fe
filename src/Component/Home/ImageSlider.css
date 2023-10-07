@@ -1,0 +1,12 @@
+/* ImageSlider.css */
+.image-slider {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
